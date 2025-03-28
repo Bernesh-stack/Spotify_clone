@@ -12,3 +12,5 @@ Currently, two official plugins are available:
 
 
 In this project i have implemented the frontend project
+using basic React 
+
